@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to become an advanced user and how to build apps fully
 - 💞️ I’m looking to collaborate on anything Power Platform related or AI strategies
 - 📫 How to reach me info@inquieticonsulting.co.uk
-- 😄 Pronouns: ...
+- 😄 Pronouns: She
 - ⚡ Fun fact: I love lego 
 
 <!---
